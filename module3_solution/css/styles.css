@@ -1,1 +1,43 @@
+body{ 
+	font-size: 16px;
+	color: white;
+	background-color: #CCC;
+	font-family: Oxygen, sans-serif;
+}
 
+#header-nav{
+	background-color: #2F4F4F;
+	border: 0;
+	border-radius: 0; 
+}
+
+#header-nav .nav.navbar-nav a, #brand-name{
+	color: inherit;
+}
+
+#collapsed-content li:hover{
+	background-color:#0F5F5F;
+}
+
+.section{
+	background-color: #444;
+	text-align: justify;
+	padding: 10px;
+}
+
+section{
+	margin-bottom: 30px; 
+}
+
+h1{
+	padding-bottom: 20px;
+}
+
+.inner-link{
+	margin-left: 5px;
+	font-size: 0.9em;
+}
+
+.main-container{
+	margin-bottom: 30px;
+}
